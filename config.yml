@@ -1,0 +1,12 @@
+Global:
+  Name: "DiscordBot"
+  Prefix: "d!"
+  Version: "1.0"
+  Client: "41646848646413854853"
+
+Initialization:
+  Status: "{{Global.Prefix}}help"
+  Activity: 1 #0= Invisible / 1= Online / 2= Idle / 3= Do Not Disturb
+
+Paths:
+  Commands: "./commands/"

@@ -29,3 +29,8 @@ Frequently Asked Questions :
 - ##### **How can I edit the settings ?**
 ##### You can add/set environment variables (global & secret keys) in the '.env' file (e.g. `MY_VARIABLE=VALUE`) and set the basic settings in the 'config.yml' file.
 
+Default Libraries :
+-------------------
+* [discord.js](https://www.npmjs.com/package/discord.js) - v12.5.1
+* [dotenv](https://www.npmjs.com/package/dotenv) -  v8.2.0
+* [config-yaml](https://www.npmjs.com/package/config-yaml) - v1.1.6

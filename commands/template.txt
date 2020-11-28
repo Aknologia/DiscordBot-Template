@@ -1,0 +1,10 @@
+module.exports = {
+    config: {
+        id: 'template',
+        name: 'Template',
+        description: "Template's Description"
+    },
+    execute(client, args){
+        /* Executed function */
+    }
+}
