@@ -1,0 +1,28 @@
+{
+  "name": "discordbot",
+  "version": "1.1.2",
+  "description": "An automated user on Discord.",
+  "main": "bot.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aknologia/DiscordBot-Template.git"
+  },
+  "keywords": [
+    "Discord",
+    "Bot",
+    "Template"
+  ],
+  "author": "Aknologia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Aknologia/DiscordBot-Template/issues"
+  },
+  "homepage": "https://github.com/Aknologia/DiscordBot-Template#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0"
+  }
+}
