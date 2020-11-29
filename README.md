@@ -1,4 +1,10 @@
 # DiscordBot Template 
+[![NodeJS](https://img.shields.io/badge/NodeJS->%3D%2013.12.0-green.svg)](https://nodejs.org/en/download)
+[![License](https://img.shields.io/github/license/Aknologia/DiscordBot-Template)](https://github.com/Aknologia/DiscordBot-Template/blob/master/LICENSE)
+[![Star on Github](https://img.shields.io/github/stars/Aknologia/DiscordBot-Template)](https://github.com/Aknologia/DiscordBot-Template/stargazers)
+[![Fork on Github](https://img.shields.io/github/forks/Aknologia/DiscordBot-Template)](https://github.com/Aknologia/DiscordBot-Template/fork)
+[![Issues](https://img.shields.io/github/issues/Aknologia/DiscordBot-Template)](https://github.com/Aknologia/DiscordBot-Template/issues)
+
 ###### Licensed under the **MIT License**.
 
 Installation :
