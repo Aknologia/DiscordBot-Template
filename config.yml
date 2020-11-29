@@ -5,8 +5,8 @@ Global:
   Client: "41646848646413854853"
 
 Initialization:
-  Status: "{{Global.Prefix}}help"
-  Activity: 1 #0= Invisible / 1= Online / 2= Idle / 3= Do Not Disturb
+  Activity: "{{Global.Prefix}}help"
+  Status: 'dnd' #invisible / online / idle / dnd
 
 Paths:
   Commands: "./commands/"
