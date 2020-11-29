@@ -4,7 +4,7 @@ module.exports = {
         name: 'Template',
         description: "Template's Description"
     },
-    execute(client, config, args){
+    execute(client, config, message, content, args){
         /* Executed function */
     }
 }
