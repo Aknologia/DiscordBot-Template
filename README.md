@@ -17,7 +17,7 @@ $ git clone https://github.com/Aknologia/DiscordBot-Template.git
 # Now you can start the bot by doing either
 $ node bot.js
 # or
-$ npm start
+$ node .
 ```
 
 Frequently Asked Questions :
