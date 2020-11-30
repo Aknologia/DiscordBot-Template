@@ -1,6 +1,6 @@
 module.exports = {
     config: {
-        id: 'template',
+        id: 'template', /* Used when calling the command (e.g. !ping ) */
         name: 'Template',
         description: "Template's Description"
     },
