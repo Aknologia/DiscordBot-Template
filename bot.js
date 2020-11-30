@@ -2,6 +2,7 @@
 MIT License
 Copyright (c) 2020 Aknologia 
 GitHub: https://github.com/Aknologia/DiscordBot-Template
+Issues: https://github.com/Aknologia/DiscordBot-Template/issues
 */
 
 /* Load Libraries */
