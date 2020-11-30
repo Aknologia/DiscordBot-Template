@@ -4,7 +4,7 @@
   "description": "An automated user on Discord.",
   "main": "bot.js",
   "scripts": {
-    "test": "start"
+    "start": "node bot.js"
   },
   "repository": {
     "type": "git",

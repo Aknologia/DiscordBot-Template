@@ -2,7 +2,7 @@ const Discord = require('discord.js');
 const sys = require('systeminformation');
 module.exports = {
     config: {
-        id: 'ping', /* Used when calling the command (e.g. !ping ) */
+        id: 'ping', /* Used when calling the command (e.g. !ping ) - Don't use spaces */
         name: 'Ping',
         description: "Shows the Bot's current latency."
     },
