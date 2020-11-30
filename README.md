@@ -4,6 +4,7 @@
 [![Star on Github](https://img.shields.io/github/stars/Aknologia/DiscordBot-Template)](https://github.com/Aknologia/DiscordBot-Template/stargazers)
 [![Fork on Github](https://img.shields.io/github/forks/Aknologia/DiscordBot-Template)](https://github.com/Aknologia/DiscordBot-Template/fork)
 [![Issues](https://img.shields.io/github/issues/Aknologia/DiscordBot-Template)](https://github.com/Aknologia/DiscordBot-Template/issues)
+[![Latest Release](https://img.shields.io/github/v/release/Aknologia/DiscordBot-Template.svg)](https://github.com/Aknologia/DiscordBot-Template/releases)
 
 ###### Licensed under the **MIT License**.
 
