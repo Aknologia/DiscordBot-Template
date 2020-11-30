@@ -1,3 +1,9 @@
+/*
+MIT License
+Copyright (c) 2020 Aknologia 
+GitHub: https://github.com/Aknologia/DiscordBot-Template
+*/
+
 /* Load Libraries */
 const Discord = require('discord.js');
 require('dotenv').config();
