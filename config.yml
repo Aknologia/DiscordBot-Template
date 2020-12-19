@@ -2,7 +2,7 @@ Global:
   Name: "DiscordBot"
   Prefix: "d!"
   Version: "1.0"
-  Client: "41646848646413854853"
+  Client: "e.g. Your Bot's client id (client.user.id)"
 
 Initialization:
   Activity: "{{Global.Prefix}}help"
