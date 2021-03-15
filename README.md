@@ -41,4 +41,4 @@ Default Libraries :
 * [discord.js](https://www.npmjs.com/package/discord.js) - v12.5.1
 * [dotenv](https://www.npmjs.com/package/dotenv) -  v8.2.0
 * [config-yaml](https://www.npmjs.com/package/config-yaml) - v1.1.6
-* [systeminformation](https://www.npmjs.com/package/systeminformation) - v4.30.7
+* [systeminformation](https://www.npmjs.com/package/systeminformation) - v5.3.1
